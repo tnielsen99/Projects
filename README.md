@@ -29,4 +29,4 @@ Now I focus on programming for whatever problems come my way, automating my life
 | --- | --- |
 | Professional Email | timonielsen@gmail.com |
 | LinkedIn | https://www.linkedin.com/in/tnielsen/ |
-| Website | timonielsen.com |
+| Website | https://www.timonielsen.com |
