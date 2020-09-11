@@ -28,5 +28,5 @@ Now I focus on programming for whatever problems come my way, automating my life
 | Contact Method |  |
 | --- | --- |
 | Professional Email | timonielsen@gmail.com |
-| LinkedIn | https://www.linkedin.com/in/tnielsen/ |
+| LinkedIn | https://www.linkedin.com/in/timonielsen/ |
 | Website | https://www.timonielsen.com |
