@@ -4,14 +4,14 @@
 
 This repository holds all of my personal projects that I've done over the years. Currently they're organised into three different categories
 
-1. [Personal Programming Projects](https://github.com/)
-    - [Python](https://github.com/tnielsen99/)
+1. [Personal Programming Projects](https://github.com/tnielsen99/Projects/)
+    - [Python](https://github.com/tnielsen99/Projects/tree/master/Python)
       - Data Science
       - 
       - Scripts
       - Jupyter Notebooks
-2. [Website Development](https://github.com/)
-3. [Tableau Visualizations](https://github.com/)
+2. [Website Development](https://github.com/tnielsen99/Projects/tree/master/Website%20Dev)
+3. [Tableau Visualisations](https://github.com/tnielsen99/Projects/tree/master/Tableau%20Visualisations)
 
 Each category has their own variety of projects and is accompanied with documentation. 
 
