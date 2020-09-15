@@ -27,9 +27,12 @@ I am result driven resilient self-starter, who is commercially focused and targe
 Specialities include: 
  - Python 
  - Machine Learning
-    - KVM
-    - 
- - Amazon Web Services (S3, EC2, Aurora, Lambda & Redshift), 
+    - Linear Regression
+    - K Nearest Neighbours
+    - SVM
+    - Neural Nets (Currently Learning)
+    - NLP (Currently Learning)
+ - Amazon Web Services (S3, EC2, Aurora, Lambda & Redshift) 
  - SQL 
  - Hadoop 
  - Spark 
