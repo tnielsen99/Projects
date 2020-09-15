@@ -14,11 +14,28 @@ This repository holds all of my personal projects that I've done over the years.
 
 Each category has their own variety of projects and is accompanied with documentation. 
 
-## Background
+## About Me
 
 Hello! 
 
-My name is Timo and welcome to my Project Portfolio! A little bit about me. 
+My name is Timo and welcome to my Project Portfolio! A little bit about me:
+
+I am currently a Data Science/Control Systems Engineer at McLaren Automotive in the powertrain testing department.
+
+I am result driven resilient self-starter, who is commercially focused and target driven, with a proven track record for delivering projects on time, with passion for interrogating problems through statistical visualisations by building Jupyter notebooks or Tableau Dashboards to guide the reader to the solution.
+
+Specialities include: 
+ - Python 
+ - Machine Learning
+    - KVM
+    - 
+ - Amazon Web Services (S3, EC2, Aurora, Lambda & Redshift), 
+ - SQL 
+ - Hadoop 
+ - Spark 
+ - MATLAB
+
+I have a positive “can do” approach, with excellent communication and interpersonal skills. I am numeric, data analytical and have strong problem-solving capabilities. My goal is ultimately to become a successful leader in applying data analysis to deliver solutions for complex industrial problems. 
 
 Now I focus on programming for whatever problems come my way, automating my life wherever I can and conducting analysis on topics that interest me!
 
