@@ -35,11 +35,12 @@ Specialities include:
  - Spark 
  - MATLAB
 
-I have a positive “can do” approach, with excellent communication and interpersonal skills. I am numeric, data analytical and have strong problem-solving capabilities. My goal is ultimately to become a successful leader in applying data analysis to deliver solutions for complex industrial problems. 
+I have a positive “can do” approach, with excellent communication and interpersonal skills. I am numeric, data analytical and have strong problem-solving capabilities. My goal is ultimately to become a successful leader in applying data analysis to deliver solutions for complex industrial problems.
 
-Outside of work, I enjoy photography and videography to stimulate my creative side. Been traveling the world taking photos for over 10 years now, still one of my biggest passions to express thoughts through photograpghy.
+Outside of work, I enjoy photography and videography to stimulate my creative side. Been traveling the world taking photos for over 10 years now, still one of my biggest passions to express thoughts through photography.
 
 Now I focus on programming for whatever problems come my way, automating my life wherever I can and conducting analysis on topics that interest me!
+
 
 ### Contact Me
 
