@@ -7,7 +7,7 @@ This repository holds all of my personal projects that I've done over the years.
 1. [Personal Programming Projects](https://github.com/tnielsen99/Projects/)
     - [Python](https://github.com/tnielsen99/Projects/tree/master/Python)
       - Data Science
-      - Scripts
+      - Applications
 2. [Quantopian](https://github.com/tnielsen99/Projects/tree/master/Website%20Dev)
 3. [Tableau Visualisations](https://github.com/tnielsen99/Projects/tree/master/Tableau%20Visualisations)
 
