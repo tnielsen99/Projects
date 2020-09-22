@@ -8,7 +8,6 @@ This repository holds all of my personal projects that I've done over the years.
     - [Python](https://github.com/tnielsen99/Projects/tree/master/Python)
       - Data Science
       - Scripts
-      - Jupyter Notebooks
 2. [Quantopian](https://github.com/tnielsen99/Projects/tree/master/Website%20Dev)
 3. [Tableau Visualisations](https://github.com/tnielsen99/Projects/tree/master/Tableau%20Visualisations)
 
