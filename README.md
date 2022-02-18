@@ -19,7 +19,7 @@ Hello!
 
 My name is Timo and welcome to my Project Portfolio! A little bit about me:
 
-I am currently a Data Scientist/Control Systems Engineer at McLaren Automotive in the powertrain testing department. 
+I am currently a Data Scientist/Control Systems Engineer at McLaren Automotive in the Powertrain department. I've helped the department improve the use and handling of data. 
 
 I am result driven resilient self-starter, who is commercially focused and target driven, with a proven track record for delivering projects on time, with passion for interrogating problems through statistical visualisations by building Jupyter notebooks or Tableau Dashboards to guide the reader to the solution.
 
@@ -29,12 +29,8 @@ Specialities include:
     - Linear Regression
     - K-Means Clustering 
     - SVM
-    - Neural Nets (Currently Learning)
-    - NLP (Currently Learning)
- - Amazon Web Services (S3, EC2, Aurora, Lambda & Redshift) 
- - SQL 
- - Hadoop 
- - Spark 
+ - Amazon Web Services (S3) 
+ - SQL  
  - MATLAB
 
 I have a positive “can do” approach, with excellent communication and interpersonal skills. I am numeric, data analytical and have strong problem-solving capabilities. My goal is ultimately to become a successful leader in applying data analysis to deliver solutions for complex industrial problems.
