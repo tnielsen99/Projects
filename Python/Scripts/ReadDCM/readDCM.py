@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import cm
 
-path = 'C:\\Users\\timo.nielsen\\OneDrive - McLaren Technology Group\\MPO_Calibration\\Programme\\P16\\Calibration\\1. Dyno\\DCM\\1. forDyno\\SW1152_ETM_Update\\ExhMod_TExhVlvMdl-1.14.0-Jcs-25%-190608-All.dcm'
+path = '**'
 file = open(path, 'r')
 dcm = file.readlines()
 
