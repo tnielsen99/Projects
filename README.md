@@ -28,7 +28,6 @@ Specialities include:
  - Machine Learning
     - Linear Regression
     - K-Means Clustering 
-    - SVM
  - Amazon Web Services (S3) 
  - SQL  
  - MATLAB
